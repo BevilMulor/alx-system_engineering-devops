@@ -1,2 +1,2 @@
-#!/bin/bashh
-ls -map | sort -d
+#!/bin/bash
+GNU ls -m
